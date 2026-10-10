@@ -1,0 +1,601 @@
+title,description,category,priority
+Suspicious phishing email,Received an email asking to verify credentials through a link Need a fix soon.,Security,Medium
+Account locked,Request: My account got locked after several failed login attempts,Access,Medium
+Cannot send emails,Please assist. Outlook shows stuck in outbox and messages are not delivered This started today.,Email,Low
+Account locked,Please assist. My account got locked after several failed login attempts Happening since yesterday.,Access,Low
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop Happening since yesterday.,Security,High
+Browser extension issue,Urgent help: Web application page does not load properly in the browser,Software,Low
+MFA token not working,"Hello, Authenticator codes are rejected during sign in Thanks in advance.",Access,Medium
+Need access to shared folder,"Please add me to the finance shared drive group, approved by manager",Access,Low
+Keyboard keys not working,Please assist. Several keys on my laptop keyboard stopped responding Thanks in advance.,Hardware,Medium
+Lost company laptop,"Please assist. Laptop was stolen from my car, contains confidential data",Security,High
+Application crashes on startup,Please assist. The reporting application closes immediately after opening Thanks in advance.,Software,Medium
+Not receiving external emails,Please assist. Emails from customers are not arriving in my inbox Please help.,Email,Medium
+Network outage in building,"Hi team, Entire floor lost connectivity, switch lights are off Thanks in advance.",Network,High
+Password reset needed,"Hello, I forgot my password and the self service portal is not accepting my answers Thanks in advance.",Access,Medium
+Monitor flickering,Urgent help: External monitor flickers and goes black randomly Thanks in advance.,Hardware,Low
+Broken laptop screen,Request: Screen is cracked after the device fell from the desk Need a fix soon.,Hardware,Medium
+Possible malware infection,Please assist. Antivirus flagged a trojan and the laptop is behaving strangely Need a fix soon.,Security,High
+Error code during update,Urgent help: Software update fails with error code 0x80070005 Need a fix soon.,Software,Medium
+MFA token not working,Urgent help: Authenticator codes are rejected during sign in,Access,Medium
+No internet access,"Hello, Cannot browse any website, ping to gateway fails Thanks in advance.",Network,Medium
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+License expired message,"Hello, Application shows license expired banner and is read only Please help.",Software,Medium
+MFA token not working,Please assist. Authenticator codes are rejected during sign in Happening since yesterday.,Access,Medium
+Calendar not syncing,Please assist. Meeting invites are missing from the calendar on my phone This started today.,Email,Low
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday",Access,Medium
+Wi-Fi keeps dropping,Request: Wireless connection disconnects every few minutes in meeting room Please help.,Network,Medium
+Browser extension issue,Web application page does not load properly in the browser This started today.,Software,Low
+Browser extension issue,Urgent help: Web application page does not load properly in the browser Happening since yesterday.,Software,Low
+Network outage in building,"Request: Entire floor lost connectivity, switch lights are off",Network,High
+Not receiving external emails,Request: Emails from customers are not arriving in my inbox Thanks in advance.,Email,Medium
+Need software installation,"Hello, Please install the latest version of the design tool on my machine",Software,Low
+Unauthorized login attempt,Please assist. Alert shows sign in from an unknown country on my account Please help.,Security,High
+Network outage in building,"Urgent help: Entire floor lost connectivity, switch lights are off Need a fix soon.",Network,High
+Account locked,Urgent help: My account got locked after several failed login attempts Please help.,Access,Medium
+Cannot send emails,Please assist. Outlook shows stuck in outbox and messages are not delivered Thanks in advance.,Email,High
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Please help.",Network,Medium
+Cannot send emails,Outlook shows stuck in outbox and messages are not delivered Need a fix soon.,Email,High
+Cannot reach intranet portal,"Hi team, DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Mailbox full,Urgent help: Received a warning that my mailbox quota is exceeded Happening since yesterday.,Email,Low
+Need software installation,Please assist. Please install the latest version of the design tool on my machine Need a fix soon.,Software,Low
+Unauthorized login attempt,"Hello, Alert shows sign in from an unknown country on my account Need a fix soon.",Security,High
+Browser extension issue,"Hello, Web application page does not load properly in the browser",Software,Low
+No internet access,"Cannot browse any website, ping to gateway fails Happening since yesterday.",Network,Medium
+Mailbox full,Received a warning that my mailbox quota is exceeded,Email,Low
+Wi-Fi keeps dropping,Wireless connection disconnects every few minutes in meeting room,Network,Medium
+Cannot reach intranet portal,"Hi team, DNS resolution fails for internal sites, external sites work Thanks in advance.",Network,Medium
+Unable to login to application,"Hi team, Login says user not authorized although I had access yesterday Need a fix soon.",Access,Medium
+Shared mailbox access,"Hello, Need access to the support shared mailbox with send as rights Please help.",Email,Medium
+Need software installation,Please install the latest version of the design tool on my machine,Software,Low
+Printer not printing,"Hello, Office printer shows offline and jobs are stuck in queue This started today.",Hardware,Medium
+Network outage in building,"Request: Entire floor lost connectivity, switch lights are off Need a fix soon.",Network,High
+License expired message,Urgent help: Application shows license expired banner and is read only,Software,Medium
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday Please help.",Access,Medium
+Printer not printing,"Hi team, Office printer shows offline and jobs are stuck in queue",Hardware,Medium
+Cannot send emails,Outlook shows stuck in outbox and messages are not delivered Need a fix soon.,Email,High
+VPN not connecting,"Hi team, VPN client shows timeout error when connecting from home Please help.",Network,Medium
+Need software installation,"Hello, Please install the latest version of the design tool on my machine",Software,Low
+Slow network speed,Urgent help: File downloads and shared drive are extremely slow since morning This started today.,Network,Low
+Ransomware message on screen,Please assist. Files are encrypted and a ransom note appeared on the desktop Need a fix soon.,Security,High
+Account locked,Urgent help: My account got locked after several failed login attempts Please help.,Access,Medium
+Outlook keeps asking for password,Please assist. Credential prompt appears repeatedly in the mail client,Email,Medium
+VPN not connecting,Please assist. VPN client shows timeout error when connecting from home This started today.,Network,Medium
+Mailbox full,Received a warning that my mailbox quota is exceeded Happening since yesterday.,Email,Low
+Password reset needed,Please assist. I forgot my password and the self service portal is not accepting my answers,Access,Medium
+Active Directory group request,Require membership in the project AD group for new joiner Happening since yesterday.,Access,Low
+Cannot send emails,Please assist. Outlook shows stuck in outbox and messages are not delivered,Email,High
+Shared mailbox access,Please assist. Need access to the support shared mailbox with send as rights Thanks in advance.,Email,Medium
+MFA token not working,Request: Authenticator codes are rejected during sign in Thanks in advance.,Access,Medium
+Need software installation,Request: Please install the latest version of the design tool on my machine Need a fix soon.,Software,Low
+Laptop will not power on,Laptop does not turn on even when charger is connected This started today.,Hardware,High
+Cannot send emails,Outlook shows stuck in outbox and messages are not delivered Happening since yesterday.,Email,High
+Monitor flickering,Urgent help: External monitor flickers and goes black randomly,Hardware,Low
+Keyboard keys not working,"Hi team, Several keys on my laptop keyboard stopped responding This started today.",Hardware,Medium
+Unauthorized login attempt,Please assist. Alert shows sign in from an unknown country on my account Need a fix soon.,Security,High
+Data leak suspected,Urgent help: Sensitive document was shared with an external address by mistake Need a fix soon.,Security,High
+Need access to shared folder,"Please add me to the finance shared drive group, approved by manager",Access,Low
+Need access to shared folder,"Urgent help: Please add me to the finance shared drive group, approved by manager Happening since yesterday.",Access,Low
+Monitor flickering,Request: External monitor flickers and goes black randomly Need a fix soon.,Hardware,Low
+Calendar not syncing,Urgent help: Meeting invites are missing from the calendar on my phone,Email,Low
+Excel freezing,Spreadsheet application hangs when opening large workbook,Software,Medium
+MFA token not working,Urgent help: Authenticator codes are rejected during sign in Please help.,Access,Medium
+Outlook keeps asking for password,"Hello, Credential prompt appears repeatedly in the mail client Happening since yesterday.",Email,Low
+Possible malware infection,Please assist. Antivirus flagged a trojan and the laptop is behaving strangely,Security,High
+Shared mailbox access,"Hi team, Need access to the support shared mailbox with send as rights This started today.",Email,Medium
+Keyboard keys not working,Several keys on my laptop keyboard stopped responding Thanks in advance.,Hardware,Medium
+MFA token not working,Authenticator codes are rejected during sign in Thanks in advance.,Access,Medium
+Browser extension issue,Request: Web application page does not load properly in the browser Please help.,Software,Low
+Account locked,"Hi team, My account got locked after several failed login attempts This started today.",Access,High
+Printer not printing,Request: Office printer shows offline and jobs are stuck in queue Need a fix soon.,Hardware,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly,Hardware,Low
+Slow network speed,"Hi team, File downloads and shared drive are extremely slow since morning Please help.",Network,Low
+Excel freezing,Urgent help: Spreadsheet application hangs when opening large workbook Please help.,Software,Medium
+Possible malware infection,"Hello, Antivirus flagged a trojan and the laptop is behaving strangely Thanks in advance.",Security,High
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Data leak suspected,Urgent help: Sensitive document was shared with an external address by mistake,Security,High
+Monitor flickering,Please assist. External monitor flickers and goes black randomly Thanks in advance.,Hardware,High
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook Thanks in advance.,Software,Medium
+Cannot send emails,"Hello, Outlook shows stuck in outbox and messages are not delivered Happening since yesterday.",Email,High
+Network outage in building,"Hello, Entire floor lost connectivity, switch lights are off",Network,High
+Outlook keeps asking for password,Request: Credential prompt appears repeatedly in the mail client Need a fix soon.,Email,Medium
+Need access to shared folder,"Hello, Please add me to the finance shared drive group, approved by manager",Access,Low
+Battery drains quickly,Urgent help: Laptop battery lasts only twenty minutes after full charge Need a fix soon.,Hardware,Medium
+Unauthorized login attempt,Please assist. Alert shows sign in from an unknown country on my account Thanks in advance.,Security,High
+Printer not printing,Request: Office printer shows offline and jobs are stuck in queue Thanks in advance.,Hardware,Medium
+Active Directory group request,Request: Require membership in the project AD group for new joiner This started today.,Access,Low
+Unable to login to application,Please assist. Login says user not authorized although I had access yesterday Thanks in advance.,Access,Medium
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Please help.",Network,Medium
+Shared mailbox access,Request: Need access to the support shared mailbox with send as rights Thanks in advance.,Email,Medium
+License expired message,"Hi team, Application shows license expired banner and is read only Happening since yesterday.",Software,Medium
+Possible malware infection,Request: Antivirus flagged a trojan and the laptop is behaving strangely,Security,High
+Ransomware message on screen,Please assist. Files are encrypted and a ransom note appeared on the desktop Thanks in advance.,Security,High
+MFA token not working,Urgent help: Authenticator codes are rejected during sign in Please help.,Access,Medium
+Password reset needed,I forgot my password and the self service portal is not accepting my answers Please help.,Access,Medium
+Cannot send emails,"Hello, Outlook shows stuck in outbox and messages are not delivered This started today.",Email,High
+Mailbox full,Request: Received a warning that my mailbox quota is exceeded Need a fix soon.,Email,Low
+Need software installation,"Hi team, Please install the latest version of the design tool on my machine Need a fix soon.",Software,Low
+Slow network speed,"Hi team, File downloads and shared drive are extremely slow since morning Please help.",Network,Low
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake",Security,High
+Slow network speed,"Hi team, File downloads and shared drive are extremely slow since morning This started today.",Network,Low
+Shared mailbox access,Urgent help: Need access to the support shared mailbox with send as rights This started today.,Email,Medium
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake Happening since yesterday.",Security,High
+MFA token not working,"Hello, Authenticator codes are rejected during sign in This started today.",Access,Medium
+MFA token not working,Urgent help: Authenticator codes are rejected during sign in Happening since yesterday.,Access,Medium
+Need access to shared folder,"Hello, Please add me to the finance shared drive group, approved by manager",Access,Low
+Need access to shared folder,"Urgent help: Please add me to the finance shared drive group, approved by manager Thanks in advance.",Access,Low
+Wi-Fi keeps dropping,"Hi team, Wireless connection disconnects every few minutes in meeting room Please help.",Network,Medium
+MFA token not working,"Hi team, Authenticator codes are rejected during sign in",Access,Medium
+Battery drains quickly,"Hello, Laptop battery lasts only twenty minutes after full charge This started today.",Hardware,Medium
+Error code during update,Please assist. Software update fails with error code 0x80070005 Need a fix soon.,Software,High
+Error code during update,Software update fails with error code 0x80070005 Thanks in advance.,Software,Medium
+Error code during update,Please assist. Software update fails with error code 0x80070005 Need a fix soon.,Software,Medium
+Mailbox full,"Hello, Received a warning that my mailbox quota is exceeded Please help.",Email,Low
+Application crashes on startup,"Hello, The reporting application closes immediately after opening Thanks in advance.",Software,Medium
+License expired message,"Hi team, Application shows license expired banner and is read only This started today.",Software,Medium
+Shared mailbox access,Need access to the support shared mailbox with send as rights This started today.,Email,Medium
+Suspicious phishing email,Received an email asking to verify credentials through a link Need a fix soon.,Security,Medium
+Need software installation,Please install the latest version of the design tool on my machine Thanks in advance.,Software,Low
+Active Directory group request,Urgent help: Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Excel freezing,"Hello, Spreadsheet application hangs when opening large workbook Thanks in advance.",Software,Medium
+Application crashes on startup,Request: The reporting application closes immediately after opening Happening since yesterday.,Software,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly,Hardware,Low
+Suspicious phishing email,Received an email asking to verify credentials through a link Please help.,Security,Medium
+Cannot reach intranet portal,"Hi team, DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Suspicious phishing email,Please assist. Received an email asking to verify credentials through a link Please help.,Security,Medium
+Keyboard keys not working,"Hi team, Several keys on my laptop keyboard stopped responding Happening since yesterday.",Hardware,Medium
+Ransomware message on screen,Files are encrypted and a ransom note appeared on the desktop Please help.,Security,High
+Cannot reach intranet portal,"DNS resolution fails for internal sites, external sites work Thanks in advance.",Network,Medium
+Error code during update,Request: Software update fails with error code 0x80070005 Please help.,Software,Medium
+Ransomware message on screen,"Hi team, Files are encrypted and a ransom note appeared on the desktop",Security,High
+Broken laptop screen,Please assist. Screen is cracked after the device fell from the desk,Hardware,Medium
+Cannot send emails,Urgent help: Outlook shows stuck in outbox and messages are not delivered Happening since yesterday.,Email,High
+Laptop will not power on,Please assist. Laptop does not turn on even when charger is connected Need a fix soon.,Hardware,High
+Error code during update,Software update fails with error code 0x80070005 This started today.,Software,Medium
+Lost company laptop,"Request: Laptop was stolen from my car, contains confidential data Please help.",Security,High
+Data leak suspected,Request: Sensitive document was shared with an external address by mistake Thanks in advance.,Security,High
+Calendar not syncing,"Hello, Meeting invites are missing from the calendar on my phone This started today.",Email,Low
+Not receiving external emails,Urgent help: Emails from customers are not arriving in my inbox Please help.,Email,Medium
+No internet access,"Hello, Cannot browse any website, ping to gateway fails Please help.",Network,Medium
+Shared mailbox access,Request: Need access to the support shared mailbox with send as rights This started today.,Email,Medium
+Excel freezing,"Hi team, Spreadsheet application hangs when opening large workbook This started today.",Software,Medium
+Keyboard keys not working,Urgent help: Several keys on my laptop keyboard stopped responding Happening since yesterday.,Hardware,Medium
+Battery drains quickly,Laptop battery lasts only twenty minutes after full charge Happening since yesterday.,Hardware,Medium
+Wi-Fi keeps dropping,Request: Wireless connection disconnects every few minutes in meeting room This started today.,Network,Medium
+MFA token not working,"Hello, Authenticator codes are rejected during sign in Need a fix soon.",Access,Medium
+Application crashes on startup,The reporting application closes immediately after opening Thanks in advance.,Software,Medium
+Possible malware infection,Urgent help: Antivirus flagged a trojan and the laptop is behaving strangely Need a fix soon.,Security,High
+Browser extension issue,Please assist. Web application page does not load properly in the browser Thanks in advance.,Software,Low
+Data leak suspected,Urgent help: Sensitive document was shared with an external address by mistake Thanks in advance.,Security,High
+Keyboard keys not working,Urgent help: Several keys on my laptop keyboard stopped responding Please help.,Hardware,Medium
+Need access to shared folder,"Please add me to the finance shared drive group, approved by manager Need a fix soon.",Access,Low
+Possible malware infection,"Hi team, Antivirus flagged a trojan and the laptop is behaving strangely Please help.",Security,High
+Broken laptop screen,Please assist. Screen is cracked after the device fell from the desk Happening since yesterday.,Hardware,Medium
+Wi-Fi keeps dropping,Urgent help: Wireless connection disconnects every few minutes in meeting room Please help.,Network,Medium
+Laptop will not power on,Request: Laptop does not turn on even when charger is connected Happening since yesterday.,Hardware,High
+VPN not connecting,Please assist. VPN client shows timeout error when connecting from home Thanks in advance.,Network,Medium
+MFA token not working,"Hello, Authenticator codes are rejected during sign in",Access,Medium
+Not receiving external emails,"Hello, Emails from customers are not arriving in my inbox This started today.",Email,Medium
+Password reset needed,Urgent help: I forgot my password and the self service portal is not accepting my answers This started today.,Access,Medium
+Slow network speed,"Hello, File downloads and shared drive are extremely slow since morning",Network,Low
+Suspicious phishing email,"Hi team, Received an email asking to verify credentials through a link Please help.",Security,Medium
+Laptop will not power on,"Hi team, Laptop does not turn on even when charger is connected",Hardware,High
+Browser extension issue,Please assist. Web application page does not load properly in the browser Happening since yesterday.,Software,Low
+Calendar not syncing,"Hello, Meeting invites are missing from the calendar on my phone This started today.",Email,Low
+Calendar not syncing,Urgent help: Meeting invites are missing from the calendar on my phone Happening since yesterday.,Email,Low
+Outlook keeps asking for password,Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Broken laptop screen,Screen is cracked after the device fell from the desk Please help.,Hardware,Medium
+Cannot send emails,"Hi team, Outlook shows stuck in outbox and messages are not delivered",Email,High
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake Thanks in advance.",Security,Medium
+Unauthorized login attempt,Request: Alert shows sign in from an unknown country on my account This started today.,Security,High
+Need access to shared folder,"Request: Please add me to the finance shared drive group, approved by manager Happening since yesterday.",Access,Low
+Active Directory group request,Require membership in the project AD group for new joiner Happening since yesterday.,Access,Low
+Need access to shared folder,"Hi team, Please add me to the finance shared drive group, approved by manager",Access,Low
+Battery drains quickly,Request: Laptop battery lasts only twenty minutes after full charge Happening since yesterday.,Hardware,Medium
+Application crashes on startup,"Hello, The reporting application closes immediately after opening Need a fix soon.",Software,Medium
+Excel freezing,Please assist. Spreadsheet application hangs when opening large workbook Happening since yesterday.,Software,Medium
+Cannot reach intranet portal,"DNS resolution fails for internal sites, external sites work This started today.",Network,Medium
+Not receiving external emails,Emails from customers are not arriving in my inbox,Email,Medium
+Data leak suspected,Please assist. Sensitive document was shared with an external address by mistake,Security,High
+Unauthorized login attempt,Please assist. Alert shows sign in from an unknown country on my account,Security,High
+Active Directory group request,Please assist. Require membership in the project AD group for new joiner Need a fix soon.,Access,Low
+Monitor flickering,Please assist. External monitor flickers and goes black randomly This started today.,Hardware,Low
+Application crashes on startup,"Hello, The reporting application closes immediately after opening Thanks in advance.",Software,Medium
+Broken laptop screen,Screen is cracked after the device fell from the desk Please help.,Hardware,Medium
+Lost company laptop,"Urgent help: Laptop was stolen from my car, contains confidential data Need a fix soon.",Security,High
+Cannot send emails,"Hello, Outlook shows stuck in outbox and messages are not delivered",Email,High
+Laptop will not power on,"Hello, Laptop does not turn on even when charger is connected Happening since yesterday.",Hardware,High
+Network outage in building,"Please assist. Entire floor lost connectivity, switch lights are off This started today.",Network,High
+Unable to login to application,Urgent help: Login says user not authorized although I had access yesterday Happening since yesterday.,Access,Medium
+Lost company laptop,"Laptop was stolen from my car, contains confidential data Please help.",Security,High
+Need access to shared folder,"Hello, Please add me to the finance shared drive group, approved by manager Need a fix soon.",Access,Low
+Network outage in building,"Please assist. Entire floor lost connectivity, switch lights are off Please help.",Network,High
+Battery drains quickly,Laptop battery lasts only twenty minutes after full charge Happening since yesterday.,Hardware,Medium
+Password reset needed,"Hello, I forgot my password and the self service portal is not accepting my answers",Access,Medium
+Active Directory group request,Request: Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Printer not printing,"Hello, Office printer shows offline and jobs are stuck in queue This started today.",Hardware,Medium
+Mailbox full,"Hello, Received a warning that my mailbox quota is exceeded Please help.",Email,Low
+Outlook keeps asking for password,"Hi team, Credential prompt appears repeatedly in the mail client",Email,Medium
+Excel freezing,Please assist. Spreadsheet application hangs when opening large workbook Thanks in advance.,Software,Medium
+Broken laptop screen,Urgent help: Screen is cracked after the device fell from the desk Happening since yesterday.,Hardware,Medium
+Lost company laptop,"Hi team, Laptop was stolen from my car, contains confidential data This started today.",Security,High
+Keyboard keys not working,Please assist. Several keys on my laptop keyboard stopped responding Happening since yesterday.,Hardware,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly Please help.,Hardware,Low
+Active Directory group request,Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Lost company laptop,"Hello, Laptop was stolen from my car, contains confidential data Need a fix soon.",Security,High
+Possible malware infection,"Hello, Antivirus flagged a trojan and the laptop is behaving strangely",Security,High
+Not receiving external emails,Emails from customers are not arriving in my inbox This started today.,Email,Medium
+Application crashes on startup,Request: The reporting application closes immediately after opening Please help.,Software,Medium
+Possible malware infection,Antivirus flagged a trojan and the laptop is behaving strangely This started today.,Security,High
+Keyboard keys not working,Please assist. Several keys on my laptop keyboard stopped responding Need a fix soon.,Hardware,Medium
+No internet access,"Request: Cannot browse any website, ping to gateway fails Happening since yesterday.",Network,Medium
+Broken laptop screen,Request: Screen is cracked after the device fell from the desk This started today.,Hardware,Medium
+Cannot reach intranet portal,"DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly,Hardware,Low
+Network outage in building,"Request: Entire floor lost connectivity, switch lights are off",Network,High
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account,Security,High
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Thanks in advance.",Network,Medium
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday Happening since yesterday.",Access,Medium
+Account locked,"Hi team, My account got locked after several failed login attempts",Access,Medium
+Browser extension issue,Request: Web application page does not load properly in the browser Please help.,Software,Low
+Mailbox full,"Hi team, Received a warning that my mailbox quota is exceeded This started today.",Email,Low
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook,Software,Medium
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook Happening since yesterday.,Software,Medium
+Excel freezing,Please assist. Spreadsheet application hangs when opening large workbook Thanks in advance.,Software,Medium
+License expired message,Urgent help: Application shows license expired banner and is read only This started today.,Software,Medium
+Active Directory group request,"Hello, Require membership in the project AD group for new joiner",Access,Low
+Not receiving external emails,Please assist. Emails from customers are not arriving in my inbox Thanks in advance.,Email,Medium
+Laptop will not power on,Request: Laptop does not turn on even when charger is connected This started today.,Hardware,High
+Outlook keeps asking for password,Request: Credential prompt appears repeatedly in the mail client,Email,Medium
+Lost company laptop,"Urgent help: Laptop was stolen from my car, contains confidential data Please help.",Security,High
+Monitor flickering,Request: External monitor flickers and goes black randomly Please help.,Hardware,Low
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop Need a fix soon.,Security,High
+Suspicious phishing email,Request: Received an email asking to verify credentials through a link Need a fix soon.,Security,Medium
+Cannot reach intranet portal,"Urgent help: DNS resolution fails for internal sites, external sites work Need a fix soon.",Network,Medium
+Keyboard keys not working,Request: Several keys on my laptop keyboard stopped responding This started today.,Hardware,Medium
+Unable to login to application,Urgent help: Login says user not authorized although I had access yesterday Happening since yesterday.,Access,Medium
+Monitor flickering,Urgent help: External monitor flickers and goes black randomly This started today.,Hardware,Low
+Broken laptop screen,Urgent help: Screen is cracked after the device fell from the desk,Hardware,Medium
+Wi-Fi keeps dropping,"Hi team, Wireless connection disconnects every few minutes in meeting room Need a fix soon.",Network,Medium
+Browser extension issue,Urgent help: Web application page does not load properly in the browser,Software,Low
+No internet access,"Please assist. Cannot browse any website, ping to gateway fails",Network,Medium
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop Thanks in advance.,Security,High
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account Need a fix soon.,Security,High
+Cannot reach intranet portal,"Please assist. DNS resolution fails for internal sites, external sites work Thanks in advance.",Network,Medium
+MFA token not working,Authenticator codes are rejected during sign in Need a fix soon.,Access,Medium
+Unauthorized login attempt,Request: Alert shows sign in from an unknown country on my account This started today.,Security,High
+VPN not connecting,Urgent help: VPN client shows timeout error when connecting from home This started today.,Network,Medium
+Unable to login to application,"Hi team, Login says user not authorized although I had access yesterday This started today.",Access,Medium
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop Happening since yesterday.,Security,High
+Ransomware message on screen,"Hi team, Files are encrypted and a ransom note appeared on the desktop This started today.",Security,High
+Browser extension issue,"Hello, Web application page does not load properly in the browser Thanks in advance.",Software,Medium
+Active Directory group request,"Hello, Require membership in the project AD group for new joiner Please help.",Access,Low
+Network outage in building,"Urgent help: Entire floor lost connectivity, switch lights are off Happening since yesterday.",Network,High
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account This started today.,Security,High
+Slow network speed,File downloads and shared drive are extremely slow since morning Need a fix soon.,Network,Low
+Data leak suspected,Sensitive document was shared with an external address by mistake,Security,High
+Account locked,Please assist. My account got locked after several failed login attempts Please help.,Access,Medium
+Mailbox full,Please assist. Received a warning that my mailbox quota is exceeded Please help.,Email,Low
+Need access to shared folder,"Hi team, Please add me to the finance shared drive group, approved by manager Happening since yesterday.",Access,Low
+Unable to login to application,Urgent help: Login says user not authorized although I had access yesterday Please help.,Access,Medium
+Wi-Fi keeps dropping,Wireless connection disconnects every few minutes in meeting room Thanks in advance.,Network,Medium
+Unable to login to application,Urgent help: Login says user not authorized although I had access yesterday,Access,Medium
+Wi-Fi keeps dropping,Request: Wireless connection disconnects every few minutes in meeting room This started today.,Network,Medium
+Suspicious phishing email,"Hello, Received an email asking to verify credentials through a link This started today.",Security,Medium
+Shared mailbox access,Need access to the support shared mailbox with send as rights This started today.,Email,Medium
+Cannot send emails,Request: Outlook shows stuck in outbox and messages are not delivered Need a fix soon.,Email,High
+License expired message,Application shows license expired banner and is read only,Software,Medium
+Error code during update,Request: Software update fails with error code 0x80070005,Software,Medium
+Application crashes on startup,The reporting application closes immediately after opening Thanks in advance.,Software,Medium
+Wi-Fi keeps dropping,Urgent help: Wireless connection disconnects every few minutes in meeting room Happening since yesterday.,Network,Medium
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client This started today.,Email,Medium
+Not receiving external emails,"Hello, Emails from customers are not arriving in my inbox Happening since yesterday.",Email,Medium
+Network outage in building,"Entire floor lost connectivity, switch lights are off Need a fix soon.",Network,High
+Outlook keeps asking for password,"Hi team, Credential prompt appears repeatedly in the mail client This started today.",Email,Medium
+Active Directory group request,Urgent help: Require membership in the project AD group for new joiner This started today.,Access,Low
+Suspicious phishing email,Urgent help: Received an email asking to verify credentials through a link This started today.,Security,Medium
+Keyboard keys not working,"Hi team, Several keys on my laptop keyboard stopped responding Need a fix soon.",Hardware,Medium
+VPN not connecting,VPN client shows timeout error when connecting from home,Network,Medium
+Ransomware message on screen,Urgent help: Files are encrypted and a ransom note appeared on the desktop Please help.,Security,High
+Shared mailbox access,Please assist. Need access to the support shared mailbox with send as rights Thanks in advance.,Email,Medium
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook This started today.,Software,Medium
+Suspicious phishing email,Urgent help: Received an email asking to verify credentials through a link Happening since yesterday.,Security,Medium
+Cannot reach intranet portal,"Please assist. DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Need software installation,Please install the latest version of the design tool on my machine Thanks in advance.,Software,Low
+Laptop will not power on,Urgent help: Laptop does not turn on even when charger is connected Happening since yesterday.,Hardware,High
+Browser extension issue,Please assist. Web application page does not load properly in the browser Happening since yesterday.,Software,Low
+Cannot send emails,Please assist. Outlook shows stuck in outbox and messages are not delivered Need a fix soon.,Email,High
+Laptop will not power on,"Hi team, Laptop does not turn on even when charger is connected Thanks in advance.",Hardware,High
+Keyboard keys not working,Urgent help: Several keys on my laptop keyboard stopped responding,Hardware,Medium
+Unable to login to application,Request: Login says user not authorized although I had access yesterday This started today.,Access,Medium
+Ransomware message on screen,Files are encrypted and a ransom note appeared on the desktop,Security,High
+Active Directory group request,"Hello, Require membership in the project AD group for new joiner This started today.",Access,Low
+Keyboard keys not working,Request: Several keys on my laptop keyboard stopped responding Thanks in advance.,Hardware,Medium
+Shared mailbox access,Need access to the support shared mailbox with send as rights,Email,Medium
+Cannot send emails,Request: Outlook shows stuck in outbox and messages are not delivered,Email,High
+Lost company laptop,"Hello, Laptop was stolen from my car, contains confidential data Happening since yesterday.",Security,High
+Monitor flickering,Please assist. External monitor flickers and goes black randomly,Hardware,Low
+No internet access,"Request: Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client,Email,Medium
+Cannot send emails,Outlook shows stuck in outbox and messages are not delivered Please help.,Email,High
+Account locked,Urgent help: My account got locked after several failed login attempts Thanks in advance.,Access,Medium
+Slow network speed,Request: File downloads and shared drive are extremely slow since morning This started today.,Network,Low
+Browser extension issue,Request: Web application page does not load properly in the browser Please help.,Software,Low
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account This started today.,Security,High
+Slow network speed,File downloads and shared drive are extremely slow since morning This started today.,Network,Low
+Battery drains quickly,"Hello, Laptop battery lasts only twenty minutes after full charge Happening since yesterday.",Hardware,Medium
+Lost company laptop,"Urgent help: Laptop was stolen from my car, contains confidential data",Security,High
+Monitor flickering,Please assist. External monitor flickers and goes black randomly This started today.,Hardware,Low
+Laptop will not power on,"Hello, Laptop does not turn on even when charger is connected",Hardware,High
+Calendar not syncing,Please assist. Meeting invites are missing from the calendar on my phone,Email,Low
+Broken laptop screen,Urgent help: Screen is cracked after the device fell from the desk Please help.,Hardware,Medium
+Password reset needed,Please assist. I forgot my password and the self service portal is not accepting my answers Need a fix soon.,Access,Medium
+Mailbox full,Urgent help: Received a warning that my mailbox quota is exceeded Thanks in advance.,Email,Low
+Possible malware infection,"Hi team, Antivirus flagged a trojan and the laptop is behaving strangely",Security,High
+Account locked,Please assist. My account got locked after several failed login attempts Please help.,Access,Medium
+Suspicious phishing email,"Hi team, Received an email asking to verify credentials through a link Need a fix soon.",Security,Medium
+Shared mailbox access,"Hello, Need access to the support shared mailbox with send as rights Need a fix soon.",Email,Medium
+Outlook keeps asking for password,Request: Credential prompt appears repeatedly in the mail client Happening since yesterday.,Email,Medium
+Unauthorized login attempt,"Hi team, Alert shows sign in from an unknown country on my account This started today.",Security,High
+License expired message,Urgent help: Application shows license expired banner and is read only Thanks in advance.,Software,Medium
+Battery drains quickly,Laptop battery lasts only twenty minutes after full charge Thanks in advance.,Hardware,Medium
+VPN not connecting,Urgent help: VPN client shows timeout error when connecting from home Thanks in advance.,Network,Medium
+Cannot reach intranet portal,"Please assist. DNS resolution fails for internal sites, external sites work Happening since yesterday.",Network,Medium
+Shared mailbox access,Request: Need access to the support shared mailbox with send as rights,Email,Medium
+Outlook keeps asking for password,"Hi team, Credential prompt appears repeatedly in the mail client Thanks in advance.",Email,Medium
+Mailbox full,Received a warning that my mailbox quota is exceeded This started today.,Email,Low
+Broken laptop screen,Screen is cracked after the device fell from the desk Happening since yesterday.,Hardware,Medium
+Wi-Fi keeps dropping,Request: Wireless connection disconnects every few minutes in meeting room This started today.,Network,Medium
+Shared mailbox access,Please assist. Need access to the support shared mailbox with send as rights Please help.,Email,Medium
+Printer not printing,"Hello, Office printer shows offline and jobs are stuck in queue Thanks in advance.",Hardware,Medium
+Network outage in building,"Request: Entire floor lost connectivity, switch lights are off Thanks in advance.",Network,High
+Cannot reach intranet portal,"Request: DNS resolution fails for internal sites, external sites work This started today.",Network,Medium
+Ransomware message on screen,Please assist. Files are encrypted and a ransom note appeared on the desktop Please help.,Security,High
+Outlook keeps asking for password,"Hi team, Credential prompt appears repeatedly in the mail client Thanks in advance.",Email,Medium
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop This started today.,Security,High
+Suspicious phishing email,Urgent help: Received an email asking to verify credentials through a link Happening since yesterday.,Security,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly Need a fix soon.,Hardware,Low
+Ransomware message on screen,Please assist. Files are encrypted and a ransom note appeared on the desktop,Security,High
+Browser extension issue,Urgent help: Web application page does not load properly in the browser,Software,Low
+Account locked,Urgent help: My account got locked after several failed login attempts This started today.,Access,Medium
+Account locked,My account got locked after several failed login attempts Thanks in advance.,Access,Medium
+Cannot reach intranet portal,"Please assist. DNS resolution fails for internal sites, external sites work Need a fix soon.",Network,Medium
+Network outage in building,"Urgent help: Entire floor lost connectivity, switch lights are off Happening since yesterday.",Network,High
+Need software installation,"Hi team, Please install the latest version of the design tool on my machine Please help.",Software,Low
+Mailbox full,Request: Received a warning that my mailbox quota is exceeded This started today.,Email,Medium
+Ransomware message on screen,"Hi team, Files are encrypted and a ransom note appeared on the desktop This started today.",Security,High
+Lost company laptop,"Hi team, Laptop was stolen from my car, contains confidential data Happening since yesterday.",Security,High
+Need software installation,Urgent help: Please install the latest version of the design tool on my machine Need a fix soon.,Software,Low
+Error code during update,Urgent help: Software update fails with error code 0x80070005 This started today.,Software,Medium
+Need software installation,"Hi team, Please install the latest version of the design tool on my machine Happening since yesterday.",Software,Low
+Laptop will not power on,Request: Laptop does not turn on even when charger is connected This started today.,Hardware,High
+Cannot send emails,Request: Outlook shows stuck in outbox and messages are not delivered Happening since yesterday.,Email,High
+Laptop will not power on,"Hi team, Laptop does not turn on even when charger is connected Thanks in advance.",Hardware,High
+Mailbox full,"Hello, Received a warning that my mailbox quota is exceeded",Email,Low
+Active Directory group request,Urgent help: Require membership in the project AD group for new joiner,Access,Low
+Browser extension issue,Urgent help: Web application page does not load properly in the browser Please help.,Software,Low
+No internet access,"Hi team, Cannot browse any website, ping to gateway fails",Network,Medium
+Network outage in building,"Request: Entire floor lost connectivity, switch lights are off Thanks in advance.",Network,High
+Password reset needed,Urgent help: I forgot my password and the self service portal is not accepting my answers This started today.,Access,Medium
+MFA token not working,"Hello, Authenticator codes are rejected during sign in This started today.",Access,Medium
+VPN not connecting,Urgent help: VPN client shows timeout error when connecting from home Please help.,Network,Medium
+Outlook keeps asking for password,Please assist. Credential prompt appears repeatedly in the mail client Happening since yesterday.,Email,Medium
+Monitor flickering,Urgent help: External monitor flickers and goes black randomly,Hardware,Medium
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake",Security,High
+Browser extension issue,Please assist. Web application page does not load properly in the browser,Software,Low
+Mailbox full,Request: Received a warning that my mailbox quota is exceeded Please help.,Email,Low
+Cannot reach intranet portal,"Urgent help: DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+MFA token not working,Request: Authenticator codes are rejected during sign in,Access,Medium
+Laptop will not power on,Please assist. Laptop does not turn on even when charger is connected Happening since yesterday.,Hardware,High
+Shared mailbox access,Need access to the support shared mailbox with send as rights This started today.,Email,Medium
+Network outage in building,"Hello, Entire floor lost connectivity, switch lights are off Thanks in advance.",Network,High
+No internet access,"Cannot browse any website, ping to gateway fails Thanks in advance.",Network,Medium
+Ransomware message on screen,Files are encrypted and a ransom note appeared on the desktop Happening since yesterday.,Security,High
+Monitor flickering,External monitor flickers and goes black randomly Thanks in advance.,Hardware,Low
+Possible malware infection,Request: Antivirus flagged a trojan and the laptop is behaving strangely This started today.,Security,High
+License expired message,"Hi team, Application shows license expired banner and is read only Please help.",Software,Medium
+Application crashes on startup,Urgent help: The reporting application closes immediately after opening Please help.,Software,Low
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Happening since yesterday.",Network,Medium
+Calendar not syncing,Urgent help: Meeting invites are missing from the calendar on my phone,Email,Low
+Need access to shared folder,"Urgent help: Please add me to the finance shared drive group, approved by manager",Access,Low
+Keyboard keys not working,Several keys on my laptop keyboard stopped responding Thanks in advance.,Hardware,Medium
+License expired message,"Hello, Application shows license expired banner and is read only This started today.",Software,Medium
+Active Directory group request,Request: Require membership in the project AD group for new joiner This started today.,Access,Low
+Not receiving external emails,Emails from customers are not arriving in my inbox Need a fix soon.,Email,Medium
+Browser extension issue,"Hi team, Web application page does not load properly in the browser Happening since yesterday.",Software,Low
+VPN not connecting,Urgent help: VPN client shows timeout error when connecting from home Need a fix soon.,Network,Medium
+Browser extension issue,Request: Web application page does not load properly in the browser This started today.,Software,Low
+Excel freezing,"Hello, Spreadsheet application hangs when opening large workbook",Software,Medium
+Battery drains quickly,"Hello, Laptop battery lasts only twenty minutes after full charge Thanks in advance.",Hardware,Medium
+VPN not connecting,Request: VPN client shows timeout error when connecting from home Need a fix soon.,Network,Medium
+Outlook keeps asking for password,Request: Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Unable to login to application,Request: Login says user not authorized although I had access yesterday This started today.,Access,Low
+MFA token not working,Urgent help: Authenticator codes are rejected during sign in Thanks in advance.,Access,Medium
+Cannot send emails,Please assist. Outlook shows stuck in outbox and messages are not delivered Please help.,Email,High
+Keyboard keys not working,"Hello, Several keys on my laptop keyboard stopped responding",Hardware,Medium
+Not receiving external emails,"Hello, Emails from customers are not arriving in my inbox Thanks in advance.",Email,Medium
+Password reset needed,I forgot my password and the self service portal is not accepting my answers Need a fix soon.,Access,Medium
+Calendar not syncing,Please assist. Meeting invites are missing from the calendar on my phone,Email,Low
+Broken laptop screen,"Hello, Screen is cracked after the device fell from the desk Please help.",Hardware,Medium
+Broken laptop screen,"Hello, Screen is cracked after the device fell from the desk Please help.",Hardware,Medium
+Slow network speed,"Hi team, File downloads and shared drive are extremely slow since morning Need a fix soon.",Network,Low
+Network outage in building,"Urgent help: Entire floor lost connectivity, switch lights are off Need a fix soon.",Network,High
+Cannot reach intranet portal,"Please assist. DNS resolution fails for internal sites, external sites work Thanks in advance.",Network,Medium
+MFA token not working,Request: Authenticator codes are rejected during sign in Need a fix soon.,Access,Medium
+Battery drains quickly,"Hi team, Laptop battery lasts only twenty minutes after full charge",Hardware,Medium
+Account locked,"Hello, My account got locked after several failed login attempts",Access,Medium
+Not receiving external emails,"Hello, Emails from customers are not arriving in my inbox Happening since yesterday.",Email,Medium
+VPN not connecting,Urgent help: VPN client shows timeout error when connecting from home This started today.,Network,Medium
+Lost company laptop,"Please assist. Laptop was stolen from my car, contains confidential data This started today.",Security,High
+Cannot send emails,"Hi team, Outlook shows stuck in outbox and messages are not delivered Thanks in advance.",Email,High
+Error code during update,Request: Software update fails with error code 0x80070005 Happening since yesterday.,Software,Medium
+Outlook keeps asking for password,Please assist. Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Active Directory group request,Please assist. Require membership in the project AD group for new joiner,Access,Low
+Mailbox full,Urgent help: Received a warning that my mailbox quota is exceeded Please help.,Email,Low
+Possible malware infection,Urgent help: Antivirus flagged a trojan and the laptop is behaving strangely Happening since yesterday.,Security,High
+No internet access,"Hi team, Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly Thanks in advance.,Hardware,Low
+Cannot reach intranet portal,"Request: DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Mailbox full,"Hi team, Received a warning that my mailbox quota is exceeded Need a fix soon.",Email,Low
+Not receiving external emails,Please assist. Emails from customers are not arriving in my inbox,Email,Medium
+VPN not connecting,VPN client shows timeout error when connecting from home Need a fix soon.,Network,Medium
+Broken laptop screen,"Hi team, Screen is cracked after the device fell from the desk Happening since yesterday.",Hardware,Medium
+Suspicious phishing email,"Hello, Received an email asking to verify credentials through a link Need a fix soon.",Security,Medium
+Unauthorized login attempt,"Hello, Alert shows sign in from an unknown country on my account Please help.",Security,High
+Lost company laptop,"Urgent help: Laptop was stolen from my car, contains confidential data This started today.",Security,High
+Wi-Fi keeps dropping,"Hello, Wireless connection disconnects every few minutes in meeting room This started today.",Network,Medium
+Need access to shared folder,"Please assist. Please add me to the finance shared drive group, approved by manager Please help.",Access,Low
+Unauthorized login attempt,Request: Alert shows sign in from an unknown country on my account Thanks in advance.,Security,High
+Need access to shared folder,"Please assist. Please add me to the finance shared drive group, approved by manager Happening since yesterday.",Access,Low
+Active Directory group request,Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Password reset needed,I forgot my password and the self service portal is not accepting my answers Thanks in advance.,Access,Medium
+Calendar not syncing,"Hi team, Meeting invites are missing from the calendar on my phone Please help.",Email,Low
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Browser extension issue,"Hello, Web application page does not load properly in the browser This started today.",Software,Low
+Application crashes on startup,The reporting application closes immediately after opening This started today.,Software,Medium
+Account locked,Please assist. My account got locked after several failed login attempts Thanks in advance.,Access,Medium
+Browser extension issue,Request: Web application page does not load properly in the browser Need a fix soon.,Software,Low
+Cannot send emails,Outlook shows stuck in outbox and messages are not delivered This started today.,Email,High
+Broken laptop screen,Urgent help: Screen is cracked after the device fell from the desk This started today.,Hardware,Medium
+Application crashes on startup,Please assist. The reporting application closes immediately after opening Happening since yesterday.,Software,Medium
+Not receiving external emails,Emails from customers are not arriving in my inbox This started today.,Email,Medium
+Not receiving external emails,Please assist. Emails from customers are not arriving in my inbox Need a fix soon.,Email,Medium
+Password reset needed,"Hello, I forgot my password and the self service portal is not accepting my answers Thanks in advance.",Access,Medium
+Battery drains quickly,Urgent help: Laptop battery lasts only twenty minutes after full charge Please help.,Hardware,Medium
+Calendar not syncing,Please assist. Meeting invites are missing from the calendar on my phone,Email,Low
+Unauthorized login attempt,"Hello, Alert shows sign in from an unknown country on my account Happening since yesterday.",Security,High
+Shared mailbox access,"Hi team, Need access to the support shared mailbox with send as rights Thanks in advance.",Email,Medium
+Monitor flickering,"Hello, External monitor flickers and goes black randomly Happening since yesterday.",Hardware,Low
+Battery drains quickly,Urgent help: Laptop battery lasts only twenty minutes after full charge Happening since yesterday.,Hardware,Medium
+Calendar not syncing,Request: Meeting invites are missing from the calendar on my phone Happening since yesterday.,Email,Low
+No internet access,"Urgent help: Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Browser extension issue,Urgent help: Web application page does not load properly in the browser Need a fix soon.,Software,Low
+Suspicious phishing email,Please assist. Received an email asking to verify credentials through a link This started today.,Security,Medium
+Data leak suspected,Please assist. Sensitive document was shared with an external address by mistake Please help.,Security,High
+Calendar not syncing,"Hi team, Meeting invites are missing from the calendar on my phone Happening since yesterday.",Email,Low
+Calendar not syncing,"Hi team, Meeting invites are missing from the calendar on my phone Need a fix soon.",Email,Low
+Outlook keeps asking for password,Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Need software installation,"Hello, Please install the latest version of the design tool on my machine Need a fix soon.",Software,Low
+Shared mailbox access,"Hello, Need access to the support shared mailbox with send as rights Need a fix soon.",Email,Medium
+Possible malware infection,Please assist. Antivirus flagged a trojan and the laptop is behaving strangely Please help.,Security,High
+Lost company laptop,"Please assist. Laptop was stolen from my car, contains confidential data This started today.",Security,High
+Active Directory group request,Please assist. Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Ransomware message on screen,Request: Files are encrypted and a ransom note appeared on the desktop Need a fix soon.,Security,High
+Battery drains quickly,"Hello, Laptop battery lasts only twenty minutes after full charge Please help.",Hardware,Medium
+Battery drains quickly,Urgent help: Laptop battery lasts only twenty minutes after full charge Please help.,Hardware,Medium
+Keyboard keys not working,Request: Several keys on my laptop keyboard stopped responding Please help.,Hardware,Medium
+Excel freezing,"Hello, Spreadsheet application hangs when opening large workbook Thanks in advance.",Software,Medium
+Unauthorized login attempt,Urgent help: Alert shows sign in from an unknown country on my account,Security,High
+Calendar not syncing,"Hello, Meeting invites are missing from the calendar on my phone Thanks in advance.",Email,Low
+Need access to shared folder,"Please add me to the finance shared drive group, approved by manager Thanks in advance.",Access,Low
+No internet access,"Hello, Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Need software installation,"Hi team, Please install the latest version of the design tool on my machine Happening since yesterday.",Software,Low
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+Data leak suspected,"Hi team, Sensitive document was shared with an external address by mistake Please help.",Security,High
+Mailbox full,Request: Received a warning that my mailbox quota is exceeded Please help.,Email,Low
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook This started today.,Software,Medium
+Password reset needed,Please assist. I forgot my password and the self service portal is not accepting my answers Please help.,Access,Medium
+Error code during update,Request: Software update fails with error code 0x80070005 Please help.,Software,Medium
+Keyboard keys not working,Urgent help: Several keys on my laptop keyboard stopped responding Need a fix soon.,Hardware,Medium
+Network outage in building,"Please assist. Entire floor lost connectivity, switch lights are off Please help.",Network,High
+Suspicious phishing email,"Hi team, Received an email asking to verify credentials through a link This started today.",Security,Medium
+Password reset needed,"Hello, I forgot my password and the self service portal is not accepting my answers This started today.",Access,Medium
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account,Security,High
+Cannot send emails,Urgent help: Outlook shows stuck in outbox and messages are not delivered Thanks in advance.,Email,High
+Data leak suspected,Please assist. Sensitive document was shared with an external address by mistake This started today.,Security,High
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday Thanks in advance.",Access,Medium
+No internet access,"Hi team, Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Broken laptop screen,"Hi team, Screen is cracked after the device fell from the desk",Hardware,Medium
+Battery drains quickly,Request: Laptop battery lasts only twenty minutes after full charge Please help.,Hardware,Medium
+Lost company laptop,"Hello, Laptop was stolen from my car, contains confidential data Happening since yesterday.",Security,High
+License expired message,Application shows license expired banner and is read only Please help.,Software,Medium
+Excel freezing,"Hi team, Spreadsheet application hangs when opening large workbook",Software,Medium
+Active Directory group request,Urgent help: Require membership in the project AD group for new joiner Thanks in advance.,Access,Low
+Data leak suspected,Sensitive document was shared with an external address by mistake Thanks in advance.,Security,High
+Possible malware infection,Antivirus flagged a trojan and the laptop is behaving strangely Need a fix soon.,Security,High
+Monitor flickering,"Hello, External monitor flickers and goes black randomly Need a fix soon.",Hardware,Low
+Unauthorized login attempt,Request: Alert shows sign in from an unknown country on my account,Security,High
+Keyboard keys not working,Please assist. Several keys on my laptop keyboard stopped responding Please help.,Hardware,Medium
+Active Directory group request,"Hi team, Require membership in the project AD group for new joiner This started today.",Access,Low
+Not receiving external emails,"Hello, Emails from customers are not arriving in my inbox Need a fix soon.",Email,Medium
+Browser extension issue,Request: Web application page does not load properly in the browser Please help.,Software,Low
+Data leak suspected,Sensitive document was shared with an external address by mistake Happening since yesterday.,Security,High
+Unauthorized login attempt,Alert shows sign in from an unknown country on my account Happening since yesterday.,Security,High
+Shared mailbox access,"Hi team, Need access to the support shared mailbox with send as rights Happening since yesterday.",Email,Medium
+Need access to shared folder,"Please assist. Please add me to the finance shared drive group, approved by manager This started today.",Access,Low
+MFA token not working,Please assist. Authenticator codes are rejected during sign in This started today.,Access,Medium
+Calendar not syncing,Meeting invites are missing from the calendar on my phone This started today.,Email,Low
+Error code during update,Please assist. Software update fails with error code 0x80070005,Software,Medium
+Unauthorized login attempt,Request: Alert shows sign in from an unknown country on my account,Security,High
+Network outage in building,"Hi team, Entire floor lost connectivity, switch lights are off Happening since yesterday.",Network,High
+Excel freezing,Request: Spreadsheet application hangs when opening large workbook,Software,Medium
+VPN not connecting,"Hello, VPN client shows timeout error when connecting from home",Network,Medium
+Account locked,Request: My account got locked after several failed login attempts Need a fix soon.,Access,Medium
+Excel freezing,"Hello, Spreadsheet application hangs when opening large workbook This started today.",Software,Medium
+Error code during update,Software update fails with error code 0x80070005 Need a fix soon.,Software,Medium
+Mailbox full,Request: Received a warning that my mailbox quota is exceeded Thanks in advance.,Email,Low
+Calendar not syncing,Please assist. Meeting invites are missing from the calendar on my phone Please help.,Email,Low
+Password reset needed,I forgot my password and the self service portal is not accepting my answers Thanks in advance.,Access,Medium
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake Happening since yesterday.",Security,High
+Account locked,"Hello, My account got locked after several failed login attempts Thanks in advance.",Access,Medium
+MFA token not working,Authenticator codes are rejected during sign in,Access,Medium
+Browser extension issue,Web application page does not load properly in the browser Please help.,Software,Low
+Cannot reach intranet portal,"DNS resolution fails for internal sites, external sites work This started today.",Network,Medium
+Suspicious phishing email,"Hi team, Received an email asking to verify credentials through a link Need a fix soon.",Security,Medium
+Unable to login to application,"Hi team, Login says user not authorized although I had access yesterday",Access,Medium
+Monitor flickering,Request: External monitor flickers and goes black randomly Happening since yesterday.,Hardware,Low
+Outlook keeps asking for password,Urgent help: Credential prompt appears repeatedly in the mail client Please help.,Email,Medium
+MFA token not working,Please assist. Authenticator codes are rejected during sign in Please help.,Access,Medium
+Laptop will not power on,Please assist. Laptop does not turn on even when charger is connected Happening since yesterday.,Hardware,High
+MFA token not working,Request: Authenticator codes are rejected during sign in This started today.,Access,Medium
+No internet access,"Request: Cannot browse any website, ping to gateway fails Need a fix soon.",Network,Medium
+Not receiving external emails,Request: Emails from customers are not arriving in my inbox This started today.,Email,Medium
+Printer not printing,"Hi team, Office printer shows offline and jobs are stuck in queue Happening since yesterday.",Hardware,Medium
+Need access to shared folder,"Request: Please add me to the finance shared drive group, approved by manager Please help.",Access,Low
+Cannot reach intranet portal,"Hello, DNS resolution fails for internal sites, external sites work This started today.",Network,Medium
+Active Directory group request,"Hi team, Require membership in the project AD group for new joiner Thanks in advance.",Access,Low
+Suspicious phishing email,"Hello, Received an email asking to verify credentials through a link Thanks in advance.",Security,Medium
+Possible malware infection,Antivirus flagged a trojan and the laptop is behaving strangely Thanks in advance.,Security,High
+Shared mailbox access,Need access to the support shared mailbox with send as rights,Email,Medium
+Outlook keeps asking for password,Request: Credential prompt appears repeatedly in the mail client Happening since yesterday.,Email,Medium
+Need access to shared folder,"Urgent help: Please add me to the finance shared drive group, approved by manager",Access,Low
+MFA token not working,Authenticator codes are rejected during sign in Need a fix soon.,Access,Medium
+Need software installation,Request: Please install the latest version of the design tool on my machine Happening since yesterday.,Software,Low
+Need software installation,Please assist. Please install the latest version of the design tool on my machine Thanks in advance.,Software,Low
+Error code during update,Please assist. Software update fails with error code 0x80070005 Need a fix soon.,Software,Medium
+Keyboard keys not working,Please assist. Several keys on my laptop keyboard stopped responding This started today.,Hardware,Medium
+Lost company laptop,"Urgent help: Laptop was stolen from my car, contains confidential data Please help.",Security,High
+Application crashes on startup,Please assist. The reporting application closes immediately after opening Please help.,Software,Medium
+No internet access,"Please assist. Cannot browse any website, ping to gateway fails Happening since yesterday.",Network,Medium
+Excel freezing,"Hi team, Spreadsheet application hangs when opening large workbook Please help.",Software,Medium
+Browser extension issue,"Hi team, Web application page does not load properly in the browser This started today.",Software,Low
+Unauthorized login attempt,Urgent help: Alert shows sign in from an unknown country on my account This started today.,Security,High
+Ransomware message on screen,"Hello, Files are encrypted and a ransom note appeared on the desktop This started today.",Security,High
+Monitor flickering,"Hi team, External monitor flickers and goes black randomly Need a fix soon.",Hardware,Low
+Unable to login to application,Request: Login says user not authorized although I had access yesterday,Access,Medium
+Network outage in building,"Entire floor lost connectivity, switch lights are off",Network,High
+Possible malware infection,Antivirus flagged a trojan and the laptop is behaving strangely Need a fix soon.,Security,High
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday Thanks in advance.",Access,Medium
+Ransomware message on screen,Please assist. Files are encrypted and a ransom note appeared on the desktop This started today.,Security,High
+VPN not connecting,Please assist. VPN client shows timeout error when connecting from home Happening since yesterday.,Network,Medium
+Cannot reach intranet portal,"Request: DNS resolution fails for internal sites, external sites work Thanks in advance.",Network,Medium
+Laptop will not power on,Please assist. Laptop does not turn on even when charger is connected Need a fix soon.,Hardware,High
+Password reset needed,I forgot my password and the self service portal is not accepting my answers Happening since yesterday.,Access,Medium
+Unable to login to application,Please assist. Login says user not authorized although I had access yesterday Thanks in advance.,Access,Medium
+Printer not printing,Office printer shows offline and jobs are stuck in queue Thanks in advance.,Hardware,Medium
+Browser extension issue,"Hi team, Web application page does not load properly in the browser Need a fix soon.",Software,Low
+Suspicious phishing email,Request: Received an email asking to verify credentials through a link Need a fix soon.,Security,Medium
+Slow network speed,"Hello, File downloads and shared drive are extremely slow since morning This started today.",Network,Low
+Network outage in building,"Entire floor lost connectivity, switch lights are off Need a fix soon.",Network,High
+Error code during update,Request: Software update fails with error code 0x80070005 Thanks in advance.,Software,Medium
+Cannot reach intranet portal,"DNS resolution fails for internal sites, external sites work Please help.",Network,Medium
+Data leak suspected,"Hello, Sensitive document was shared with an external address by mistake Thanks in advance.",Security,Low
+Unauthorized login attempt,Please assist. Alert shows sign in from an unknown country on my account Happening since yesterday.,Security,High
+Need access to shared folder,"Please add me to the finance shared drive group, approved by manager Please help.",Access,Low
+Lost company laptop,"Laptop was stolen from my car, contains confidential data Thanks in advance.",Security,High
+Unable to login to application,"Hello, Login says user not authorized although I had access yesterday Need a fix soon.",Access,Medium
+Printer not printing,Request: Office printer shows offline and jobs are stuck in queue Please help.,Hardware,Medium
+Ransomware message on screen,Files are encrypted and a ransom note appeared on the desktop Happening since yesterday.,Security,High
+Laptop will not power on,Laptop does not turn on even when charger is connected This started today.,Hardware,High
+No internet access,"Please assist. Cannot browse any website, ping to gateway fails Happening since yesterday.",Network,Medium
+Excel freezing,Spreadsheet application hangs when opening large workbook Need a fix soon.,Software,Medium
